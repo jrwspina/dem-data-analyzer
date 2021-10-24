@@ -1,4 +1,4 @@
-#### Demographic Data Analyzer is a project part of freeCodeCamp's [Data Analysis with Python course](https://www.freecodecamp.org/learn/data-analysis-with-python/), it's solution may be found in *demographic_data_analyzer.py*.
+#### Demographic Data Analyzer is a project part of freeCodeCamp's [Data Analysis with Python course](https://www.freecodecamp.org/learn/data-analysis-with-python/), it's solution may be found in *demographic_data_analyzer.py* or in the notebook *solution-notebook.ipynb*.
 
 ### Assignment
 
